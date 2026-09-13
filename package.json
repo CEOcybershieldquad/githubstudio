@@ -1,0 +1,9 @@
+{
+  "name": "xadon-github-studio-pro",
+  "version": "2.2.0",
+  "private": true,
+  "description": "XADON GitHub Studio Pro+ static developer workspace",
+  "scripts": {
+    "dev": "python -m http.server 8080"
+  }
+}
