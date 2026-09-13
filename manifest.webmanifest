@@ -1,0 +1,10 @@
+{
+  "name": "XADON GitHub Studio Pro+",
+  "short_name": "XADON Studio",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#060711",
+  "theme_color": "#060711",
+  "description": "Local-first GitHub project publishing and developer workspace by Musteqeem aka Future Scientist.",
+  "icons": []
+}
